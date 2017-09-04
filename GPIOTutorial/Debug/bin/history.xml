@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<history>
+   <processor signature="arm-none-eabi-gcc -mcpu=cortex-m3 -mthumb -g2 -Map=GPIOTutorial.map -O0 --gc-sections -LC:\Users\Abhishek\AppData\Roaming\CooCox\CoIDE\configuration\ProgramData\GPIOTutorial -TC:\Users\Abhishek\AppData\Roaming\CooCox\CoIDE\configuration\ProgramData\GPIOTutorial/arm-gcc-link.ld -g">
+      <target file="GPIOTutorial.elf" lastModified="15e4cb23b32">
+         <source file="..\obj\stm32f1xx_hal_nor.o" lastModified="15e4cb223a2"/>
+         <source file="..\obj\stm32f1xx_hal_flash_ex.o" lastModified="15e4cb231f6"/>
+         <source file="..\obj\stm32f1xx_hal_usart.o" lastModified="15e4cb222e4"/>
+         <source file="..\obj\stm32f1xx_hal_nand.o" lastModified="15e4cb233e6"/>
+         <source file="..\obj\stm32f1xx_hal_dac_ex.o" lastModified="15e4cb21c94"/>
+         <source file="..\obj\stm32f1xx_hal_cec.o" lastModified="15e4cb225f1"/>
+         <source file="..\obj\stm32f1xx_hal_iwdg.o" lastModified="15e4cb21aec"/>
+         <source file="..\obj\stm32f1xx_hal_tim_ex.o" lastModified="15e4cb237b4"/>
+         <source file="..\obj\stm32f1xx_ll_sdmmc.o" lastModified="15e4cb23853"/>
+         <source file="..\obj\stm32f1xx_hal_pcd.o" lastModified="15e4cb21fef"/>
+         <source file="..\obj\stm32f1xx_hal_rtc.o" lastModified="15e4cb22f5e"/>
+         <source file="..\obj\stm32f1xx_hal_smartcard.o" lastModified="15e4cb21f0f"/>
+         <source file="..\obj\stm32f1xx_hal_pwr.o" lastModified="15e4cb2142e"/>
+         <source file="..\obj\stm32f1xx_hal_dac.o" lastModified="15e4cb21668"/>
+         <source file="..\obj\stm32f1xx_hal.o" lastModified="15e4cb215ce"/>
+         <source file="..\obj\stm32f1xx_hal_wwdg.o" lastModified="15e4cb217ed"/>
+         <source file="..\obj\startup_stm32f103xb.o" lastModified="15e4cb221bc"/>
+         <source file="..\obj\stm32f1xx_hal_adc.o" lastModified="15e4cb21d99"/>
+         <source file="..\obj\system_stm32f1xx.o" lastModified="15e4cb21a32"/>
+         <source file="..\obj\stm32f1xx_hal_adc_ex.o" lastModified="15e4cb229a3"/>
+         <source file="..\obj\stm32f1xx_hal_sram.o" lastModified="15e4cb23579"/>
+         <source file="..\obj\stm32f1xx_hal_crc.o" lastModified="15e4cb21987"/>
+         <source file="..\obj\main.o" lastModified="15e4cb2218c"/>
+         <source file="..\obj\stm32f1xx_hal_spi_ex.o" lastModified="15e4cb2254c"/>
+         <source file="..\obj\stm32f1xx_hal_rcc_ex.o" lastModified="15e4cb21372"/>
+         <source file="..\obj\stm32f1xx_ll_usb.o" lastModified="15e4cb2248f"/>
+         <source file="..\obj\stm32f1xx_hal_can.o" lastModified="15e4cb21519"/>
+         <source file="..\obj\stm32f1xx_hal_cortex.o" lastModified="15e4cb218bb"/>
+         <source file="..\obj\stm32f1xx_hal_rtc_ex.o" lastModified="15e4cb23658"/>
+         <source file="..\obj\stm32f1xx_hal_i2s.o" lastModified="15e4cb21e3a"/>
+         <source file="..\obj\stm32f1xx_ll_fsmc.o" lastModified="15e4cb22e85"/>
+         <source file="..\obj\stm32f1xx_hal_irda.o" lastModified="15e4cb22a82"/>
+         <source file="..\obj\stm32f1xx_hal_dma.o" lastModified="15e4cb228db"/>
+         <source file="..\obj\stm32f1xx_hal_rcc.o" lastModified="15e4cb21c01"/>
+         <source file="..\obj\stm32f1xx_hal_eth.o" lastModified="15e4cb22df4"/>
+         <source file="..\obj\stm32f1xx_hal_sd.o" lastModified="15e4cb22b0d"/>
+         <source file="..\obj\stm32f1xx_hal_pccard.o" lastModified="15e4cb234c2"/>
+         <source file="..\obj\stm32f1xx_hal_pcd_ex.o" lastModified="15e4cb2332a"/>
+         <source file="..\obj\stm32f1xx_hal_tim.o" lastModified="15e4cb23124"/>
+         <source file="..\obj\stm32f1xx_hal_spi.o" lastModified="15e4cb22c1f"/>
+         <source file="..\obj\stm32f1xx_hal_i2c.o" lastModified="15e4cb22d59"/>
+         <source file="..\obj\stm32f1xx_hal_uart.o" lastModified="15e4cb220d9"/>
+         <source file="..\obj\stm32f1xx_hal_gpio_ex.o" lastModified="15e4cb2172f"/>
+         <source file="..\obj\stm32f1xx_hal_gpio.o" lastModified="15e4cb22812"/>
+         <source file="..\obj\stm32f1xx_hal_flash.o" lastModified="15e4cb22760"/>
+         <source file="..\obj\stm32f1xx_hal_hcd.o" lastModified="15e4cb226af"/>
+      </target>
+   </processor>
+</history>
